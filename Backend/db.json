@@ -1,0 +1,14 @@
+{
+  "transactions": [
+    {
+      "id": "1db5",
+      "description": "Rent",
+      "amount": 1875,
+      "category": "expense",
+      "date": "2024-09-12"
+    }
+  ],
+  "salary": {
+    "amount": 65000
+  }
+}
